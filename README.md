@@ -5,5 +5,5 @@ project made using <br>
 ● CSS <br>
 ● JS <br>
 <h2>Screenshot</h2>
-![screenshot (2)](https://github.com/Mrching08/Hamster-Ranch-Cebu/assets/112615845/dc5ae202-407c-485d-8499-889eba3033e7)
+https://photos.google.com/album/AF1QipMpH0UUJ6Cd-7jvl4U7qt5o8KRuBcNyD2LZFIeQ/photo/AF1QipP7PRXVINCKvirr9wP1rlSEG9u1nTYfAk54EXhc
 
